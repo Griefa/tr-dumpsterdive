@@ -111,8 +111,8 @@ Config.Distance = 2
 -- Text
 
 Config.Text = {
-    SearchingTrash = "Searching Threw Trash",
-    SearchDumpster = "Searching Threw Dumpster",
+    SearchingTrash = "Searching Through Trash",
+    SearchDumpster = "Searching Through Dumpster",
 
     --Successfully
     FoundSomething = "You Found Something",
